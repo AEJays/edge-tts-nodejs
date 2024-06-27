@@ -1,6 +1,6 @@
 {
   "name": "edge-tts-nodejs",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "edge-tts with node",
   "main": "dist/index.js",
   "scripts": {
