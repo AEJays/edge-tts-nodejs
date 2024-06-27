@@ -97,3 +97,6 @@ Made with :heart: by <a href="https://github.com/AEJays" target="_blank">AEdge</
 
 ## Dependence ##
 [edge-tts](https://github.com/rany2/edge-tts)
+
+## End
+If it helps you, star the project, thanks!

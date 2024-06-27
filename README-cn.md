@@ -2,7 +2,7 @@
  * @Author: AEJays
  * @Date: 2024-06-28 00:34:13
  * @LastEditors: AEJays
- * @LastEditTime: 2024-06-28 00:55:39
+ * @LastEditTime: 2024-06-28 01:28:47
  * @FilePath: /script/edge-tts/README-cn.md
  * @Email: aedgejay@qq.com
 -->
@@ -104,3 +104,6 @@ Made with :heart: by <a href="https://github.com/AEJays" target="_blank">AEdge</
 &#xa0;
 
 <a href="#top">回到顶部</a>
+
+## 结束 ##
+如果它对你有帮助，麻烦点一下 Star 感谢!
