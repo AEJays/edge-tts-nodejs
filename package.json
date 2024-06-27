@@ -1,0 +1,29 @@
+{
+  "name": "edge-tts-node",
+  "version": "1.0.0",
+  "description": "edge-tts with node",
+  "main": "dist/index.js",
+  "scripts": {
+    "preinstall": "./install.sh",
+    "build": "rollup -c",
+    "test": "node tests/testGenerate.js"
+  },
+  "keywords": [],
+  "author": "AEdge",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "rollup": "^4.18.0"
+  },
+  "directories": {
+    "test": "tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AEJays/edge-tts-node.git"
+  },
+  "bugs": {
+    "url": "https://github.com/AEJays/edge-tts-node/issues"
+  },
+  "homepage": "https://github.com/AEJays/edge-tts-node#readme"
+}
