@@ -2,7 +2,7 @@
  * @Author: AEJays
  * @Date: 2024-06-28 00:34:13
  * @LastEditors: AEJays
- * @LastEditTime: 2024-06-28 00:44:28
+ * @LastEditTime: 2024-06-28 00:55:39
  * @FilePath: /script/edge-tts/README-cn.md
  * @Email: aedgejay@qq.com
 -->
@@ -13,22 +13,22 @@
 
 </div> -->
 
-<h1 align="center">Edge TTS Node</h1>
+<h1 align="center">Edge TTS NodeJs</h1>
 
 <p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/AEJays/edge-tts-node?color=56BEB8">
+  <img alt="Github top language" src="https://img.shields.io/github/languages/top/AEJays/edge-tts-nodejs?color=56BEB8">
 
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/AEJays/edge-tts-node?color=56BEB8">
+  <img alt="Github language count" src="https://img.shields.io/github/languages/count/AEJays/edge-tts-nodejs?color=56BEB8">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/AEJays/edge-tts-node?color=56BEB8">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/AEJays/edge-tts-nodejs?color=56BEB8">
 
-  <img alt="License" src="https://img.shields.io/github/license/AEJays/edge-tts-node?color=56BEB8">
+  <img alt="License" src="https://img.shields.io/github/license/AEJays/edge-tts-nodejs?color=56BEB8">
 
-  <img alt="Github issues" src="https://img.shields.io/github/issues/AEJays/edge-tts-node?color=56BEB8" />
+  <img alt="Github issues" src="https://img.shields.io/github/issues/AEJays/edge-tts-nodejs?color=56BEB8" />
 
-  <img alt="Github forks" src="https://img.shields.io/github/forks/AEJays/edge-tts-node?color=56BEB8" />
+  <img alt="Github forks" src="https://img.shields.io/github/forks/AEJays/edge-tts-nodejs?color=56BEB8" />
 
-  <img alt="Github stars" src="https://img.shields.io/github/stars/AEJays/edge-tts-node?color=56BEB8" />
+  <img alt="Github stars" src="https://img.shields.io/github/stars/AEJays/edge-tts-nodejs?color=56BEB8" />
 </p>
 
 <!-- Status -->
@@ -61,12 +61,12 @@
 
 ```bash
 # 项目引入
-$ npm i edge-tts-node --save
+$ npm i edge-tts-nodejs --save
 ```
 ## 案例 ##
 
 ```javascript
-const { toVoice, voices } = require("edge-tts-node")
+const { toVoice, voices } = require("edge-tts-nodejs")
 const path = require("path")
 
 // Export different formats

@@ -1,5 +1,5 @@
 {
-  "name": "edge-tts-node",
+  "name": "edge-tts-nodejs",
   "version": "1.0.0",
   "description": "edge-tts with node",
   "main": "dist/index.js",
@@ -20,10 +20,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AEJays/edge-tts-node.git"
+    "url": "git+https://github.com/AEJays/edge-tts-nodejs.git"
   },
   "bugs": {
-    "url": "https://github.com/AEJays/edge-tts-node/issues"
+    "url": "https://github.com/AEJays/edge-tts-nodejs/issues"
   },
-  "homepage": "https://github.com/AEJays/edge-tts-node#readme"
+  "homepage": "https://github.com/AEJays/edge-tts-nodejs#readme"
 }
