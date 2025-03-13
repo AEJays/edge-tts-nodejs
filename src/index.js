@@ -1,7 +1,7 @@
 const { toVoice, voices } = require("./lib/generate");
 
 
-exports.edgeTTS = {
+module.exports = {
     toVoice,
     voices
 }

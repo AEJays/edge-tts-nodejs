@@ -69,7 +69,7 @@ function toVoice(text, filePath = './output.mp4', params){
         pitch
     } = params || {};
     execCommand += ` --text '${text}'`;
-    if(filePath) execCommand += ` --write-media '${filePath}'`;
+    if(filePath) execCommand += ` --write-media ${filePath}`;
     if(voice) execCommand += ` -v ${voice}`;
     if(rate) execCommand += ` --rate ${rate>0?'+'+rate:rate}%`;
     if(volume) execCommand += ` --volume ${volume>0?'+'+volume:volume}%`;
