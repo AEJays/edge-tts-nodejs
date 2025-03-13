@@ -1,10 +1,10 @@
 {
   "name": "edge-tts-nodejs",
-  "version": "1.0.1",
+  "version": "1.0.4",
   "description": "edge-tts with node",
   "main": "dist/index.js",
   "scripts": {
-    "preinstall": "./install.sh",
+    "preinstall": "node ./install.js",
     "build": "rollup -c",
     "test": "node tests/testGenerate.js"
   },
